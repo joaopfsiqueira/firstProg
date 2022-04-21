@@ -1,0 +1,1 @@
+Tentando ler um arquivo de texto!
